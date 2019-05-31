@@ -14,6 +14,14 @@ module.exports = {
                 children: [
                     '/system/character'
                 ]
+            },
+            {
+                title: '故事',
+                collapsable: true,
+                sidebarDepth: 2,
+                children: [
+                    '/story/01.md'
+                ]
             }
         ]
     }
