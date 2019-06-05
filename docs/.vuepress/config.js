@@ -15,10 +15,13 @@ module.exports = {
                 ]
             },
             {
-                title: '故事',
-                collapsable: false,
+                title: '故事1: 復活愛人的少女',
+                collapsable: true,
                 children: [
-                    '/story/01.md'
+                    ['/story/01/pc-kelsey.md', '玩家角色：凱爾希．萊特'],
+                    '/story/01/npc.md',
+                    '/story/01/story.md',
+                    '/story/01/note.md'
                 ]
             }
         ]
