@@ -14,7 +14,7 @@
 
 ## 文森．波頓 (戀人)
 
-![wenson](./npc-vincent.jpg)
+![wenson](./images/npc-vincent.jpg)
 
 凱爾希的青梅竹馬，女僕長的兒子。
 
@@ -22,7 +22,7 @@
 
 ## 亡者女王莉蓮娜
 
-![liliana](./npc-liliana.jpg)
+![liliana](./images/npc-liliana.jpg)
 
 精通死靈術的旅法師，她擅長用魔法力來復活死者，腐化生者，並從死亡中召喚力量。外表只有20來歲，實際上她已經經歷過一個世紀的滄桑。
 

@@ -1,6 +1,6 @@
 # 凱爾希．萊特
 
-![kelsey](./pc-kelsey.jpg)
+![kelsey](./images/pc-kelsey.jpg)
 
 ## 角色背景
 
