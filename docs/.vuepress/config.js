@@ -20,7 +20,8 @@ module.exports = {
                 children: [
                     ['/story/01/pc-kelsey.md', '玩家角色：凱爾希．萊特'],
                     '/story/01/npc.md',
-                    '/story/01/story.md'
+                    '/story/01/story.md',
+                    '/story/01/note.md'
                 ]
             }
         ]
